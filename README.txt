@@ -1,4 +1,6 @@
-This directory contains the codes used to simulate and construct the figures in the article.
+This directory contains the codes used to simulate and construct the figures in the article
+
+"A three-step approach to production frontier estimation and the Matsuoka’s distribution."
 
 List of codes and as a brief description:
 
